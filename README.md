@@ -1,3 +1,3 @@
 # Rust
 RUST URL
-Meow
+steam://connect/147.135.41.200:25565
